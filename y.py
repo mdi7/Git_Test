@@ -1,6 +1,3 @@
-x = input()
-abs(x)
-bin(x)
-print(x)
-
-#test
+print("Test Input please insert")
+i = input()
+print(i)
